@@ -1,0 +1,22 @@
+
+
+.icone-foto{
+    display: flex;
+    width: 150px;
+    background-color: #3b4f66;
+    
+}
+.icone-texto{
+    color: whitesmoke;
+    background-color: #3b4f66;
+    display: flex;
+    font-size: 16px;
+    font-family: Arial, Helvetica, 'Segoe UI', Tahoma, Geneva, Verdana, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.rede-sociais{
+    width: 35px;
+    position: relative;
+}
