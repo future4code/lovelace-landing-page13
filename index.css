@@ -22,12 +22,18 @@ img{
 
 footer{
     background-color:  #3b4f66;
-    height: 90px;
+    /* height: 90px; */
     position: absolute;
     font-family: Arial, Helvetica, 'Segoe UI', Tahoma, Geneva, Verdana, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     bottom: 0;
     width: 100%;
 }
+
+button:hover{
+background-color: darkgray;
+}
  
-   
+html{
+    scroll-behavior: smooth;
+}   
